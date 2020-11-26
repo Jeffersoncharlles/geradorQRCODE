@@ -3,6 +3,8 @@ body{
     display: flex;
     align-items: center;
     flex-direction: column;
+    background: #222831;
+    color: #e8e8e8;
 }
 .cores input{
     background: none;
@@ -16,15 +18,16 @@ body{
 }
 .link button, input{
     font-size: 20px;
-    border: 1px solid black;
+    border: 1px solid #e8e8e8;
     outline: none;
     background: none;
     padding: 5px;
+    color: #f05454;
 }
 #download{
     margin: 10px;
     padding: 20px;
     text-transform: none;
     color: white;
-    background: black;
+    background: #30475e;
 }
