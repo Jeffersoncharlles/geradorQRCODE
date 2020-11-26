@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.cores input{
+    background: none;
+    height: 40px;
+    border: none;
+    outline: none;
+}
+
+.link{
+    padding: 40px;
+}
+.link button, input{
+    font-size: 20px;
+    border: 1px solid black;
+    outline: none;
+    background: none;
+    padding: 5px;
+}
+#download{
+    margin: 10px;
+    padding: 20px;
+    text-transform: none;
+    color: white;
+    background: black;
+}
